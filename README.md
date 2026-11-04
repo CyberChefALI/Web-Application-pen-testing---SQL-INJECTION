@@ -24,3 +24,10 @@ B) DVWA
 Open your web browser and go to the DVWA site by entering its IP address followed by the folder path in the address bar (192.168.1.104/DVWA/).
 <img width="1920" height="1020" alt="Metasploitable2 - Linux - Personal - Microsoft​ Edge 04_11_2026 09_24_40" src="https://github.com/user-attachments/assets/bd2eab15-e81f-43c2-8bd8-17891c41ae90" />
 <img width="1920" height="1020" alt="Metasploitable2 - Linux - Personal - Microsoft​ Edge 04_11_2026 09_24_21" src="https://github.com/user-attachments/assets/d3e61b95-3792-4cc1-8381-3cb1a8283658" />
+
+# STEP - 2
+
+Go to the main page of DVWA & then go to  security level section and select the (LOW) security option and click on SQL injection section.
+<img width="1920" height="1020" alt="Metasploitable2 - Linux - Personal - Microsoft​ Edge 04_11_2026 09_24_48" src="https://github.com/user-attachments/assets/bc34fd3f-0383-4c67-a08e-59f9a828ba11" />
+<img width="1920" height="1020" alt="Metasploitable2 - Linux - Personal - Microsoft​ Edge 04_11_2026 09_24_58" src="https://github.com/user-attachments/assets/9edb5a19-e9af-44c4-a42a-5bb964b00ca6" />
+
